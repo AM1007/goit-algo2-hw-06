@@ -12,9 +12,14 @@ Completing this assignment will enhance your skills in **processing large files 
 
 Let’s get started! 💪🏼
 
+## Solution
+
+![screenshot](./assets/Screenshot%202025-03-02%20225512.png)
+
 ### Task
 
 Write a Python script that:
+
 - Loads text from a given URL,
 - Analyzes word frequency using the MapReduce paradigm,
 - Visualizes the most frequently used words.
@@ -35,8 +40,8 @@ Write a Python script that:
 Acceptance Criteria
 📌 These criteria must be met for your assignment to be reviewed. If any are missing, the mentor will return it for revision without grading. If you need clarification or get stuck, ask your mentor in Slack.
 
-The script successfully fetches text from the given URL.
-The word frequency analysis using MapReduce is correct.
-The visualization clearly displays the most frequent words.
-The script efficiently uses multithreading/multiprocessing.
-The code is readable and follows PEP 8 standards.
+1. The script successfully fetches text from the given URL.
+2. The word frequency analysis using MapReduce is correct.
+3. The visualization clearly displays the most frequent words.
+4. The script efficiently uses multithreading/multiprocessing.
+5. The code is readable and follows PEP 8 standards.
